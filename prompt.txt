@@ -1,0 +1,187 @@
+You are a top-tier real estate CRO (Conversion Rate Optimization) expert, luxury brand strategist, and performance marketer.
+
+Create a HIGH-CONVERSION, PSYCHOLOGICALLY-OPTIMIZED, SEO-DOMINATING luxury real estate landing page for:
+
+Location: Whitefield – Varthur Lake – Varthur Road – East Bangalore, India
+
+This page must be built to MAXIMIZE:
+• Site visit bookings
+• WhatsApp clicks
+• Call inquiries
+• Form submissions
+
+The goal is to OUTPERFORM Prestige, Brigade, Sobha, and other luxury developers in lead capture.
+
+--------------------------------------------------
+SEO DOMINATION STRATEGY
+--------------------------------------------------
+
+Naturally integrate these high-ranking keywords:
+
+Primary:
+Luxury apartments Whitefield Bangalore
+Luxury apartments Varthur Lake Bangalore
+Premium apartments Whitefield Bangalore
+Luxury apartments in Whitefield near Varthur Lake
+Luxury apartments Varthur Road Bangalore
+Luxury homes East Bangalore
+
+Configuration:
+2 BHK luxury apartments Whitefield Bangalore
+3 BHK luxury apartments Whitefield Bangalore
+4 BHK luxury apartments Whitefield Bangalore
+Ultra-luxury apartments Whitefield Bangalore
+Lake view apartments Whitefield Varthur Lake
+
+Competitor Positioning:
+Prestige luxury apartments Whitefield
+Prestige Lakeside Habitat Varthur Lake
+Prestige Raintree Park Varthur Road
+Brigade luxury apartments Whitefield
+Sobha luxury apartments Whitefield
+
+Investment:
+New launch luxury apartments Whitefield Bangalore
+Ready to move luxury apartments Whitefield Bangalore
+Property investment Whitefield Bangalore
+Whitefield Bangalore real estate trends
+
+--------------------------------------------------
+MANDATORY SEO OUTPUT
+--------------------------------------------------
+
+Generate:
+• Highly clickable Meta Title (under 60 characters)
+• High-CTR Meta Description (155–160 characters)
+• Schema Markup (JSON-LD RealEstateListing)
+• Proper heading hierarchy
+• Optimized internal anchor structure
+• OpenGraph + Twitter meta tags
+• FAQ schema
+
+--------------------------------------------------
+HYPER-CONVERSION STRUCTURE
+--------------------------------------------------
+
+This is NOT a normal landing page.
+
+It must apply:
+
+1. URGENCY triggers
+   - “Limited inventory”
+   - “Price revision soon”
+   - “Exclusive pre-launch pricing”
+   - Countdown timer section
+
+2. AUTHORITY triggers
+   - Market positioning vs Prestige & Brigade
+   - Mention ITPL proximity
+   - Mention Metro connectivity
+   - Mention Varthur Lake premium belt
+
+3. FOMO triggers
+   - “Most searched luxury project in Whitefield”
+   - “High rental demand zone”
+   - “Investors locking units fast”
+
+4. TRUST triggers
+   - RERA section
+   - Secure inquiry form
+   - No spam assurance
+   - Privacy badge
+
+--------------------------------------------------
+UI & DESIGN REQUIREMENTS
+--------------------------------------------------
+
+• Ultra-modern luxury UI
+• Premium gold + cream + charcoal theme
+• Glassmorphism sections
+• Smooth fade-in animations
+• Soft shadows
+• Premium typography
+• Mobile-first responsive
+• Sticky header CTA
+• Floating WhatsApp button
+• Floating Call Now button
+• Sticky bottom mobile CTA bar
+
+Hero Section must include:
+• Emotional luxury headline
+• Strong sub-headline with primary keyword
+• 2 CTA buttons (Book Site Visit / Get Price Details)
+• Microcopy under CTA: “Instant Callback in 5 Minutes”
+
+--------------------------------------------------
+LEAD CAPTURE OPTIMIZATION
+--------------------------------------------------
+
+Create a HIGH-CONVERSION form:
+
+Fields:
+• Name
+• Phone (Indian validation mandatory)
+• Email
+• Budget range dropdown
+• When do you plan to buy? dropdown
+
+Form requirements:
+• Firebase Firestore integration (I will paste config)
+• Store timestamp
+• Prevent duplicate entries
+• Success popup with urgency message
+• Redirect option to WhatsApp after submission
+• Basic spam protection
+
+Add:
+• Exit-intent popup
+• Scroll-trigger popup
+• Limited inventory notification banner
+
+--------------------------------------------------
+SECTIONS REQUIRED
+--------------------------------------------------
+
+1. Hero with conversion focus
+2. Why Whitefield is Bangalore’s luxury hotspot
+3. Project overview
+4. Configurations & pricing grid
+5. Amenities (visual luxury)
+6. Location advantage (ITPL, Metro, Varthur Lake)
+7. Investment growth chart section (placeholder visual)
+8. Comparison positioning vs Prestige / Brigade
+9. Image gallery (use attached images dynamically)
+10. Floor plans section
+11. FAQ (8 high-intent SEO questions)
+12. Strong final CTA block
+13. Footer with RERA disclaimer
+
+--------------------------------------------------
+TECH REQUIREMENTS
+--------------------------------------------------
+
+• Clean HTML5
+• Tailwind CSS CDN
+• Modern Vanilla JS
+• Firebase v9 modular SDK
+• Lazy loaded images
+• Optimized for Vercel
+• Structured code
+• Fast loading
+• Proper alt tags for images
+• Accessibility optimized
+
+--------------------------------------------------
+CRITICAL
+--------------------------------------------------
+
+Output must be:
+
+• Complete production-ready landing page code
+• No explanations
+• No commentary
+• No markdown formatting
+• Only final code
+• Fully optimized for SEO + conversion
+
+This page must psychologically outperform other luxury apartment landing pages in Whitefield, Varthur Lake, and East Bangalore.
